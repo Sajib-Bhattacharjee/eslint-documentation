@@ -137,9 +137,9 @@ if (foo) {
 setTimeout(function () {}, 1000);
 ```
 
-      - make some changes in setting.json
+ ####  - Make some changes in `setting.json`
 
-      - format on save and validate js codes: add the following codes in settings.json
+ ####  - Format on save and validate js codes: add the following codes in `settings.json`
 
 ```
  "editor.codeActionsOnSave": {
