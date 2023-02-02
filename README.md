@@ -1,5 +1,5 @@
 <p align="center">
- <img src="images/eslint__logo.jpg" alt="NPM - Node Package Manager" title="NPM - Node Package Manager" width="100%" height="100%" />
+ <img src="images/eslint__logo.jpg" alt="ESLint" title="ESLint" width="100%" height="100%" />
 </p>
  
  
