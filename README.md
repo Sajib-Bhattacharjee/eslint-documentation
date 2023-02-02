@@ -56,19 +56,19 @@ Hello Everyone, I'm **`Sajib Bhattacharjee, A passionate Full-Stack Web-Develope
    Example
 
    ```json
-
-   following codes will activate the recommended rules which can be changed inside the rules object.
+   
+   //following codes will activate the recommended rules which can be changed inside the rules object.
      {
       "extends": "eslint:recommended"
      }
 
-    <!-- first value is error level, it can have 3 values: off/0, warn/1, error/2 -->
+    //first value is error level, it can have 3 values: off/0, warn/1, error/2  
     Example of ESLint rules
     "rules": {
         "quotes": ["error", "double"]
     }
 
-    More Examples of ESLint rules
+    //More Examples of ESLint rules
    "rules": {
        "no-var": "error",
        "eqeqeq": "error",
